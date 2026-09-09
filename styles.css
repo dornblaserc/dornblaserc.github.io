@@ -1,15 +1,15 @@
-.intro{
-font-family:'Times New Roman', Times, serif;
-text-align: center;
-padding: 20px;
+.intro {
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    padding: 20px;
 
 }
 
-.intro img{
+.intro img {
 
 
-border-radius: 50%;
-object-fit: cover;
+    border-radius: 50%;
+    object-fit: cover;
 
 }
 
@@ -21,24 +21,24 @@ footer {
     margin-top: 30px;
 }
 
-body{
+body {
 
-    background-color:tan;
-    margin:0;
+    background-color: tan;
+    margin: 0;
     padding: 20px;
 }
 
-hr{
+hr {
 
     border-style: solid;
     border-width: 1px;
     color: black;
 }
 
-.flappy{
+.flappy {
 
-margin: 0 auto;
-text-align: center;
+    margin: 0 auto;
+    text-align: center;
 
 }
 
@@ -53,18 +53,19 @@ table {
     margin: 20px auto;
 }
 
-th, td {
+th,
+td {
     border: 1px solid black;
     padding: 10px 20px;
 }
 
 th {
-    background-color:grey;
+    background-color: grey;
     color: black;
 }
 
 a {
-    color:teal;
+    color: teal;
     text-decoration: none;
 }
 
